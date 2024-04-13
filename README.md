@@ -18,7 +18,7 @@ Open the index.html file in a web browser to view the webpage.
 
 # Credits
 Video: The background video used in this webpage is sourced from pexels.com.
-HTML & CSS: Developed by [Your Name].
+HTML & CSS: Developed by Mohammad Abbasi.
 
 # License
 This project is licensed under the MIT License.
